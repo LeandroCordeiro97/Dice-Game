@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #E4C59E;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Kanit', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #AF8260;
+}
+
+p {
+  font-size: 2rem;
+  color: #AF8260;
+  font-family: 'Kanit', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Kanit', cursive;
+
+}
